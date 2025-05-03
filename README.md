@@ -20,7 +20,7 @@ A clean, Red Themed Discord Theme
 
 ### Method 2: Manual Addition
 
-1. Download the CSS file: [red-moon-theme.css](https://raw.githubusercontent.com/bykoma/red-moon-discord-theme/)
+1. Download the CSS file: [red-moon-theme.css](https://github.com/bykoma/red-moon-discord-theme)
 2. Open Discord with Vencord installed
 3. Go to Settings → "Vencord" → "Themes"
 4. Click "Open Themes Folder"
