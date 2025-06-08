@@ -9,7 +9,7 @@
 
 :root {
   /* Main background image */
-  --theme-background-image: url(https://bykoma.de/img/red%20moon.jpg);
+  --theme-background-image: url(https://raw.githubusercontent.com/byKoma/Red-Moon-Discord-Theme/refs/heads/main/background.jpg);
 
   /* Primary theme color */
   --main-theme-color: rgb(107, 0, 0);
@@ -18,7 +18,7 @@
   --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /* Home button icon */
-  --home-icon-image: url(https://bykoma.de/img/redmoon.jpg);
+  --home-icon-image: url(https://raw.githubusercontent.com/byKoma/Red-Moon-Discord-Theme/refs/heads/main/red-moon-icon.jpg);
 
   /* Home icon positioning */
   --home-icon-image-position: center center;
